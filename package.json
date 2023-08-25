@@ -1,0 +1,9 @@
+{
+    "name": "network.particle.chains",
+    "version": "1.0.0",
+    "displayName": "ParticleChains",
+    "description": "ParticleChains",
+    "unity": "2019.4",
+    "dependencies": {
+    }
+}
